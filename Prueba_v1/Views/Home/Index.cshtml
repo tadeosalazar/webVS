@@ -1,0 +1,37 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@{
+    ViewData["Title"] = "Inicio";
+    Layout = User.IsInRole("Admin") ? "_LayoutAdm" : "_LayoutEsp";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="~/css/style.css" />
+</head>
+
+<body>
+    <!-- Imagne inicial- seccion 1 -->
+    <div class="main">
+        <h1 class="title">
+            BYE FOOD
+        </h1>
+    </div>
+    <div class="footer">
+        <b>SOBRE NOSOTROS</b>
+        <div>
+            <p>
+                ByeFood es una pagina web desarrollada para todos esos amantes de la comida que saben lo obsoleto que es el servicio de comida y para los que saben
+                el infortunio de recibir en tu casa una comida fria, revuelta y desorganizada. Es por eso que en esta pagina ofrecemos los mejores platillos del restaurante
+                asi como un servicio que te asegura una comida caliente, organizada y limpia, porque en ByeFood procuramos siempre dar lo mejor en comida.
+            </p>
+        </div>
+    </div>
+
+</body>
+</html>

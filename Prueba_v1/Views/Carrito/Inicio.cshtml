@@ -1,0 +1,54 @@
+﻿@model IEnumerable<Prueba_v1.Models.dbModels.Carrito>
+
+@{
+    ViewData["Title"] = "Inicio";
+    Layout = User.IsInRole("Admin") ? "_LayoutAdm" : "_LayoutEsp";
+}
+
+<h1>Inicio</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Cantidad)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdComidaNavigation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdUsusario1)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdUsusarioNavigation)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cantidad)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdComidaNavigation.IdComida)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdUsusario1.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdUsusarioNavigation.IdPedido)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,48 @@
+﻿@model IEnumerable<Prueba_v1.Models.dbModels.Carrito>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Carrito</h1>
+
+<p>
+    <a asp-action="Create">Crear nuevo</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.First().Comida.Nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().Usuario.UserName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().Cantidad)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Comida.Nombre)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Usuario.UserName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Cantidad)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.IdCarrito">Editar</a> |
+                    <a asp-action="Delete" asp-route-id="@item.IdCarrito">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

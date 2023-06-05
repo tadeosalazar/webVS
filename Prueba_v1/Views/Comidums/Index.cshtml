@@ -1,0 +1,67 @@
+﻿@model IEnumerable<Prueba_v1.Models.dbModels.Comidum>
+
+@{
+    ViewData["Title"] = "Index";
+}
+@{
+    Layout = "_LayoutAdm";
+}
+
+
+[Authorize(Roles = "Admin")]
+<head>
+    <h1>Index</h1>
+    <script src="https://kit.fontawesome.com/194667a566.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+<p>
+        <a asp-action="Create"><i class="fas fa-plus"></i></a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Descripcion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Precio)
+            </th>
+            <th>
+                @Html.DisplayName("Categoria")
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Descripcion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Precio)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdCategoriaNavigation.Nombre)
+            </td>
+            <td>
+                        <a asp-action="Edit" asp-route-id="@item.IdComida"><i class="fa fa-edit"></i>
+                            </a> |
+                        <a asp-action="Details" asp-route-id="@item.IdComida"> <i class="fa fa-info-circle"></i> 
+                            </a> |
+                <a asp-action="Delete" asp-route-id="@item.IdComida">
+                            <i class="fa fa-trash"></i>
+                       </a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+</body>

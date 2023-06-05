@@ -1,0 +1,345 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Prueba_v1.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Prueba_v1.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\IMG\\Facebook.png",
+      "PackagePath": "staticwebassets\\IMG\\Facebook.png"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\IMG\\Guacamole.jpg",
+      "PackagePath": "staticwebassets\\IMG\\Guacamole.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\IMG\\Instagram.png",
+      "PackagePath": "staticwebassets\\IMG\\Instagram.png"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\IMG\\Nachos.jpg.jpg",
+      "PackagePath": "staticwebassets\\IMG\\Nachos.jpg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\IMG\\Piña.jpg",
+      "PackagePath": "staticwebassets\\IMG\\Piña.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\IMG\\Piñacolada.webp",
+      "PackagePath": "staticwebassets\\IMG\\Piñacolada.webp"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\IMG\\burgir.jpg",
+      "PackagePath": "staticwebassets\\IMG\\burgir.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\IMG\\cocacola.jpg",
+      "PackagePath": "staticwebassets\\IMG\\cocacola.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\IMG\\ensalada.jpg",
+      "PackagePath": "staticwebassets\\IMG\\ensalada.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\IMG\\jamaica.jpg",
+      "PackagePath": "staticwebassets\\IMG\\jamaica.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\IMG\\limonada.jpg",
+      "PackagePath": "staticwebassets\\IMG\\limonada.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\IMG\\pescado.jpg",
+      "PackagePath": "staticwebassets\\IMG\\pescado.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\IMG\\pizza.jpg",
+      "PackagePath": "staticwebassets\\IMG\\pizza.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\IMG\\ponche.jpg",
+      "PackagePath": "staticwebassets\\IMG\\ponche.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\IMG\\salsa.jpg",
+      "PackagePath": "staticwebassets\\IMG\\salsa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\IMG\\torta_salmon.jpg",
+      "PackagePath": "staticwebassets\\IMG\\torta_salmon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\IMG\\twitter.png",
+      "PackagePath": "staticwebassets\\IMG\\twitter.png"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\css\\entradas.css",
+      "PackagePath": "staticwebassets\\css\\entradas.css"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\css\\estilos.css",
+      "PackagePath": "staticwebassets\\css\\estilos.css"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Jesus\\Desktop\\Prog Web\\Prueba_v1\\Prueba_v1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Prueba_v1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Prueba_v1.props",
+      "PackagePath": "build\\Prueba_v1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Prueba_v1.props",
+      "PackagePath": "buildMultiTargeting\\Prueba_v1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Prueba_v1.props",
+      "PackagePath": "buildTransitive\\Prueba_v1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

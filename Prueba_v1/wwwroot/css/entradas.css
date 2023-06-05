@@ -1,0 +1,55 @@
+﻿
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous" >
+
+.card {
+    width: 200px;
+    height: 300px;
+    perspective: 1000px;
+}
+
+.face {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    backface-visibility: hidden;
+    transition: transform 0.5s;
+}
+
+.front {
+    transform: rotateY(0deg);
+}
+
+.back {
+    transform: rotateY(180deg);
+}
+
+.card:hover .front {
+    transform: rotateY(-180deg);
+}
+
+.card:hover .back {
+    transform: rotateY(0deg);
+}
+
+.card-container {
+    max-width: 500px; /* ajusta el ancho máximo según tus necesidades */
+    margin: 0 auto; /* centrar el contenedor en la página */
+}
+
+.card {
+    width: 300px; /* ajusta el ancho según tus necesidades */
+    margin: 0 auto; /* centrar la tarjeta en la página */
+}
+
+    .card img {
+        max-width: 100%; /* ajusta el tamaño de la imagen al ancho máximo de la tarjeta */
+        height: auto; /* mantener la proporción de aspecto */
+        object-fit: cover; /* Ajusta la imagen para cubrir completamente el contenedor */
+    }
+
+.card-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* Ajusta el ancho mínimo y máximo según tus necesidades */
+    gap: 20px; /* Espacio entre las tarjetas */
+}
